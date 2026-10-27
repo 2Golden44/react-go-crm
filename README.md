@@ -1,4 +1,23 @@
-<p align="center">
+# React-Go-CRM
+
+## David Golden
+Full Stack Software Engineer
+
+### Project Overview
+A full-stack Customer Relationship Management (CRM)
+application using React for the frontend and Go
+for the backend.
+
+### Technologies
+- React
+- JavaScript
+- Go (Golang)
+- REST APIs
+
+### Features
+- Customer management
+- Contact tracking
+- CRM dashboardp align="center">
   <a href="#"><img src="https://capsule-render.vercel.app/api?type=rect&color=4ade80&height=100&section=header&text=Tiny%20CRM&fontSize=50%&fontColor=ffffff" alt="Tiny CRM"></a>
   <h2 align="center">Customer Relationship Management — React + Go</h2>
 </p>
